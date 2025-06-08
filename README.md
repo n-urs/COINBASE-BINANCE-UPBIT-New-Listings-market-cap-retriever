@@ -1,6 +1,6 @@
 # Crypto Listings Market Cap Bot
 
-A Telegram bot that monitors specified channels for cryptocurrency listing announcements (futures, spot, and Upbit KRW listings) and automatically retrieves market capitalization data from CoinMarketCap and CoinGecko. Useful for tracking new listings and getting instant market cap insights.
+A Telegram bot that monitors specified channels for cryptocurrency listing announcements (Binance futures/spot, and Upbit KRW listings) and automatically retrieves market capitalization data from CoinMarketCap and CoinGecko. Useful for tracking new listings and getting instant market cap insights.
 
 ## Features
 
